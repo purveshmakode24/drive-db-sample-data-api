@@ -1,0 +1,23 @@
+{
+  "name": "drive-db-sample-data-api",
+  "version": "1.0.0",
+  "description": " Use Google Drive spreadsheets as a simple database for sample data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purveshmakode24/drive-db-sample-data-api.git"
+  },
+  "author": "Purvesh Makode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purveshmakode24/drive-db-sample-data-api/issues"
+  },
+  "homepage": "https://github.com/purveshmakode24/drive-db-sample-data-api#readme",
+  "dependencies": {
+    "drive-db": "^6.0.0",
+    "express": "^4.17.1"
+  }
+}
