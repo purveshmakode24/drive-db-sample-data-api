@@ -1,2 +1,2 @@
 # drive-db-sample-data-api
-Testing drive db sample data using express as a backend
+Testing drive-db sample data from spreadsheets using express as a backend
